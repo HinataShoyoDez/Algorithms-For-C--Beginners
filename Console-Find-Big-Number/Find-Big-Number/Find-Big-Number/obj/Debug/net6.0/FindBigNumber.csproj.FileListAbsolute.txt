@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\bin\Debug\net6.0\FindBigNumber.exe
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\bin\Debug\net6.0\FindBigNumber.deps.json
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\bin\Debug\net6.0\FindBigNumber.runtimeconfig.json
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\bin\Debug\net6.0\FindBigNumber.dll
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\bin\Debug\net6.0\FindBigNumber.pdb
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.dll
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\refint\FindBigNumber.dll
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.pdb
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\FindBigNumber.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\find big number\FindBigNumber\FindBigNumber\obj\Debug\net6.0\ref\FindBigNumber.dll

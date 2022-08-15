@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Find-Number-of-Digits/1.0.0": {
+        "runtime": {
+          "Find-Number-of-Digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find-Number-of-Digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

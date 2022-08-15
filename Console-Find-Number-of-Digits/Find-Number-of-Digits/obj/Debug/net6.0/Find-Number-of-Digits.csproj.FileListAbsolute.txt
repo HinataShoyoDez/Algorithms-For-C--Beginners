@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\bin\Debug\net6.0\Find-Number-of-Digits.exe
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\bin\Debug\net6.0\Find-Number-of-Digits.deps.json
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\bin\Debug\net6.0\Find-Number-of-Digits.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\bin\Debug\net6.0\Find-Number-of-Digits.dll
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\bin\Debug\net6.0\Find-Number-of-Digits.pdb
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.dll
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\refint\Find-Number-of-Digits.dll
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.pdb
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\Find-Number-of-Digits.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Find-Number-of-Digits\Find-Number-of-Digits\obj\Debug\net6.0\ref\Find-Number-of-Digits.dll

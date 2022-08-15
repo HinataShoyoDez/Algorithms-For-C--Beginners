@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\bin\Debug\net6.0\Finding-Odd-Or-Even-Number.exe
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\bin\Debug\net6.0\Finding-Odd-Or-Even-Number.deps.json
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\bin\Debug\net6.0\Finding-Odd-Or-Even-Number.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\bin\Debug\net6.0\Finding-Odd-Or-Even-Number.dll
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\bin\Debug\net6.0\Finding-Odd-Or-Even-Number.pdb
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.dll
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\refint\Finding-Odd-Or-Even-Number.dll
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.pdb
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\Finding-Odd-Or-Even-Number.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Finding-Odd-Or-Even-Number\Finding-Odd-Or-Even-Number\obj\Debug\net6.0\ref\Finding-Odd-Or-Even-Number.dll

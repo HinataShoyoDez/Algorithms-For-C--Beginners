@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\bin\Debug\net6.0\Fahrenheit-Conversion-Celsius.exe
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\bin\Debug\net6.0\Fahrenheit-Conversion-Celsius.deps.json
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\bin\Debug\net6.0\Fahrenheit-Conversion-Celsius.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\bin\Debug\net6.0\Fahrenheit-Conversion-Celsius.dll
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\bin\Debug\net6.0\Fahrenheit-Conversion-Celsius.pdb
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.dll
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\refint\Fahrenheit-Conversion-Celsius.dll
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.pdb
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\Fahrenheit-Conversion-Celsius.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Fahrenheit-Conversion-Celsius\Fahrenheit-Conversion-Celsius\obj\Debug\net6.0\ref\Fahrenheit-Conversion-Celsius.dll
