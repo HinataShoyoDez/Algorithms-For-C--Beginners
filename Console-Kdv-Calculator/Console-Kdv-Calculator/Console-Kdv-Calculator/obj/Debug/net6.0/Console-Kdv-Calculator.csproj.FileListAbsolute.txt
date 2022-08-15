@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\bin\Debug\net6.0\Console-Kdv-Calculator.exe
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\bin\Debug\net6.0\Console-Kdv-Calculator.deps.json
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\bin\Debug\net6.0\Console-Kdv-Calculator.runtimeconfig.json
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\bin\Debug\net6.0\Console-Kdv-Calculator.dll
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\bin\Debug\net6.0\Console-Kdv-Calculator.pdb
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.dll
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\refint\Console-Kdv-Calculator.dll
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.pdb
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\Console-Kdv-Calculator.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\Console-Kdv-Calculator\Console-Kdv-Calculator\Console-Kdv-Calculator\obj\Debug\net6.0\ref\Console-Kdv-Calculator.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\bin\Debug\net6.0\Iterative-Statement.exe
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\bin\Debug\net6.0\Iterative-Statement.deps.json
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\bin\Debug\net6.0\Iterative-Statement.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\bin\Debug\net6.0\Iterative-Statement.dll
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\bin\Debug\net6.0\Iterative-Statement.pdb
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.dll
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\refint\Iterative-Statement.dll
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.pdb
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\Iterative-Statement.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Iterative-Statement\Iterative-Statement\obj\Debug\net6.0\ref\Iterative-Statement.dll

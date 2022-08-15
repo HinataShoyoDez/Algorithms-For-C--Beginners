@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\bin\Debug\net6.0\Console-For-Example2.exe
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\bin\Debug\net6.0\Console-For-Example2.deps.json
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\bin\Debug\net6.0\Console-For-Example2.runtimeconfig.json
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\bin\Debug\net6.0\Console-For-Example2.dll
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\bin\Debug\net6.0\Console-For-Example2.pdb
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.dll
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\refint\Console-For-Example2.dll
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.pdb
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\Console-For-Example2.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\Console-For-Example2\Console-For-Example2\Console-For-Example2\obj\Debug\net6.0\ref\Console-For-Example2.dll
