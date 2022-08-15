@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\bin\Debug\net6.0\Ohms-Law-Calculator.exe
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\bin\Debug\net6.0\Ohms-Law-Calculator.deps.json
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\bin\Debug\net6.0\Ohms-Law-Calculator.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\bin\Debug\net6.0\Ohms-Law-Calculator.dll
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\bin\Debug\net6.0\Ohms-Law-Calculator.pdb
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.dll
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\refint\Ohms-Law-Calculator.dll
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.pdb
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\Ohms-Law-Calculator.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Ohms-Law-Calculator\Ohms-Law-Calculator\obj\Debug\net6.0\ref\Ohms-Law-Calculator.dll

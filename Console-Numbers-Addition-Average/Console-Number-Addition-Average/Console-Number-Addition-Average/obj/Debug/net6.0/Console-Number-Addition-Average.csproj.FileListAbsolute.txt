@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\bin\Debug\net6.0\Console-Number-Addition-Average.exe
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\bin\Debug\net6.0\Console-Number-Addition-Average.deps.json
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\bin\Debug\net6.0\Console-Number-Addition-Average.runtimeconfig.json
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\bin\Debug\net6.0\Console-Number-Addition-Average.dll
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\bin\Debug\net6.0\Console-Number-Addition-Average.pdb
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.dll
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\refint\Console-Number-Addition-Average.dll
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.pdb
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\Console-Number-Addition-Average.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\Console-Numbers-Addition-Average\Console-Number-Addition-Average\Console-Number-Addition-Average\obj\Debug\net6.0\ref\Console-Number-Addition-Average.dll

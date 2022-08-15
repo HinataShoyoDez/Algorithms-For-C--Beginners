@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\bin\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.exe
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\bin\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.deps.json
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\bin\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\bin\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.dll
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\bin\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.pdb
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.dll
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\refint\Student's-Passing-Or-Failing-The-Class.dll
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.pdb
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\Student's-Passing-Or-Failing-The-Class.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Student's-Passing-Or-Failing-The-Class\Student's-Passing-Or-Failing-The-Class\obj\Debug\net6.0\ref\Student's-Passing-Or-Failing-The-Class.dll
