@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\bin\Debug\net6.0\Console-TaxRate-ProfitRate.exe
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\bin\Debug\net6.0\Console-TaxRate-ProfitRate.deps.json
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\bin\Debug\net6.0\Console-TaxRate-ProfitRate.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\bin\Debug\net6.0\Console-TaxRate-ProfitRate.dll
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\bin\Debug\net6.0\Console-TaxRate-ProfitRate.pdb
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.dll
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\refint\Console-TaxRate-ProfitRate.dll
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.pdb
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\Console-TaxRate-ProfitRate.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Console-TaxRate-ProfitRate\Console-TaxRate-ProfitRate\obj\Debug\net6.0\ref\Console-TaxRate-ProfitRate.dll

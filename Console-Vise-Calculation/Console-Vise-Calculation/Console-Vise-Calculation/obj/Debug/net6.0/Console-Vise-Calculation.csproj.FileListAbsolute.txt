@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\bin\Debug\net6.0\Console-Vise-Calculation.exe
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\bin\Debug\net6.0\Console-Vise-Calculation.deps.json
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\bin\Debug\net6.0\Console-Vise-Calculation.runtimeconfig.json
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\bin\Debug\net6.0\Console-Vise-Calculation.dll
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\bin\Debug\net6.0\Console-Vise-Calculation.pdb
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.dll
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\refint\Console-Vise-Calculation.dll
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.pdb
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\Console-Vise-Calculation.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\Console-Vise-Calculation\Console-Vise-Calculation\Console-Vise-Calculation\obj\Debug\net6.0\ref\Console-Vise-Calculation.dll

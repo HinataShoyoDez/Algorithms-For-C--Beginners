@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Two-Number-Between-Difference/1.0.0": {
+        "runtime": {
+          "Two-Number-Between-Difference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two-Number-Between-Difference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
