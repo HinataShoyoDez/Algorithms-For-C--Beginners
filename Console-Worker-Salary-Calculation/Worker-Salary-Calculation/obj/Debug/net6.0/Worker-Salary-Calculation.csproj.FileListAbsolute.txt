@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\bin\Debug\net6.0\Worker-Salary-Calculation.exe
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\bin\Debug\net6.0\Worker-Salary-Calculation.deps.json
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\bin\Debug\net6.0\Worker-Salary-Calculation.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\bin\Debug\net6.0\Worker-Salary-Calculation.dll
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\bin\Debug\net6.0\Worker-Salary-Calculation.pdb
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.dll
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\refint\Worker-Salary-Calculation.dll
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.pdb
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\Worker-Salary-Calculation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Worker-Salary-Calculation\Worker-Salary-Calculation\obj\Debug\net6.0\ref\Worker-Salary-Calculation.dll

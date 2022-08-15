@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\bin\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.exe
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\bin\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.deps.json
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\bin\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\bin\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.dll
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\bin\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.pdb
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.dll
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\refint\N-Number-Of-Squares-And-Sum-And-Product.dll
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.pdb
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\N-Number-Of-Squares-And-Sum-And-Product.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\N-Number-Of-Squares-And-Sum-And-Product\N-Number-Of-Squares-And-Sum-And-Product\obj\Debug\net6.0\ref\N-Number-Of-Squares-And-Sum-And-Product.dll
