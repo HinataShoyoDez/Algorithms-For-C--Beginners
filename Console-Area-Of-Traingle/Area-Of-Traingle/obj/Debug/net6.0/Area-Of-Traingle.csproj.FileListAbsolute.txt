@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\bin\Debug\net6.0\Area-Of-Traingle.exe
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\bin\Debug\net6.0\Area-Of-Traingle.deps.json
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\bin\Debug\net6.0\Area-Of-Traingle.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\bin\Debug\net6.0\Area-Of-Traingle.dll
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\bin\Debug\net6.0\Area-Of-Traingle.pdb
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.dll
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\refint\Area-Of-Traingle.dll
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.pdb
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\Area-Of-Traingle.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Area-Of-Traingle\Area-Of-Traingle\obj\Debug\net6.0\ref\Area-Of-Traingle.dll

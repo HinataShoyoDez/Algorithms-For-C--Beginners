@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\bin\Debug\net6.0\Delta-Calculation.exe
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\bin\Debug\net6.0\Delta-Calculation.deps.json
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\bin\Debug\net6.0\Delta-Calculation.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\bin\Debug\net6.0\Delta-Calculation.dll
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\bin\Debug\net6.0\Delta-Calculation.pdb
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.dll
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\refint\Delta-Calculation.dll
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.pdb
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\Delta-Calculation.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Delta-Calculation\Delta-Calculation\obj\Debug\net6.0\ref\Delta-Calculation.dll
