@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\bin\Debug\net6.0\Positive-or-Negative.exe
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\bin\Debug\net6.0\Positive-or-Negative.deps.json
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\bin\Debug\net6.0\Positive-or-Negative.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\bin\Debug\net6.0\Positive-or-Negative.dll
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\bin\Debug\net6.0\Positive-or-Negative.pdb
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.dll
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\refint\Positive-or-Negative.dll
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.pdb
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\Positive-or-Negative.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Positive-or-Negative\Positive-or-Negative\obj\Debug\net6.0\ref\Positive-or-Negative.dll

@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\bin\Debug\net6.0\Console-Find-Posivite-Negative-Number.exe
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\bin\Debug\net6.0\Console-Find-Posivite-Negative-Number.deps.json
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\bin\Debug\net6.0\Console-Find-Posivite-Negative-Number.runtimeconfig.json
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\bin\Debug\net6.0\Console-Find-Posivite-Negative-Number.dll
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\bin\Debug\net6.0\Console-Find-Posivite-Negative-Number.pdb
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.dll
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\refint\Console-Find-Posivite-Negative-Number.dll
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.pdb
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\Console-Find-Posivite-Negative-Number.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\Console-Find-Positive-Negative-Number\Console-Find-Posivite-Negative-Number\Console-Find-Posivite-Negative-Number\obj\Debug\net6.0\ref\Console-Find-Posivite-Negative-Number.dll
