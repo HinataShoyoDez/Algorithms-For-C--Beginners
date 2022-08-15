@@ -1,0 +1,15 @@
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\bin\Debug\net6.0\Console-Exponential-Numbers.exe
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\bin\Debug\net6.0\Console-Exponential-Numbers.deps.json
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\bin\Debug\net6.0\Console-Exponential-Numbers.runtimeconfig.json
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\bin\Debug\net6.0\Console-Exponential-Numbers.dll
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\bin\Debug\net6.0\Console-Exponential-Numbers.pdb
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.csproj.AssemblyReference.cache
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.AssemblyInfoInputs.cache
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.AssemblyInfo.cs
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.dll
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\refint\Console-Exponential-Numbers.dll
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.pdb
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\Console-Exponential-Numbers.genruntimeconfig.cache
+C:\Users\aliengin\Desktop\Console-Exponential- Numbers\Console-Exponential-Numbers\Console-Exponential-Numbers\obj\Debug\net6.0\ref\Console-Exponential-Numbers.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\bin\Debug\net6.0\Divisibility-by-Three-and-Five.exe
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\bin\Debug\net6.0\Divisibility-by-Three-and-Five.deps.json
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\bin\Debug\net6.0\Divisibility-by-Three-and-Five.runtimeconfig.json
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\bin\Debug\net6.0\Divisibility-by-Three-and-Five.dll
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\bin\Debug\net6.0\Divisibility-by-Three-and-Five.pdb
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.dll
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\refint\Divisibility-by-Three-and-Five.dll
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.pdb
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\Divisibility-by-Three-and-Five.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Yeni\Divisibility-by-Three-and-Five\Divisibility-by-Three-and-Five\obj\Debug\net6.0\ref\Divisibility-by-Three-and-Five.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Divisibility-by-Three-and-Five/1.0.0": {
+        "runtime": {
+          "Divisibility-by-Three-and-Five.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Divisibility-by-Three-and-Five/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
